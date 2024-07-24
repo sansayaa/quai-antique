@@ -9,9 +9,15 @@ html{
 main{
     margin-bottom: 250px;
 }
+
 footer.footer{
     padding: 15px;
     position: absolute;
     bottom: 0;
     width: 100%;
+}
+
+p{
+    font-family: $font-family-serif;
+    font-size: 18px;
 }
